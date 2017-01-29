@@ -1,0 +1,14 @@
+.idea
+*.iml
+out
+gen
+
+# OS Files
+.DS_Store
+thumbs.db
+
+# Folders
+/public/
+
+# Files
+hugo.exe
