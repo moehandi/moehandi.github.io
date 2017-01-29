@@ -2,4 +2,11 @@
 
 Website for My Github Pages
 
-Hugo Source for https://moehandi.github.io
+https://moehandi.github.io/
+
+## Contributions
+
+Please do not send pull requests or submit issues to this repository.
+
+Send all pull requests and submit issues to this repository instead:
+https://github.com/moehandi/moehandi.github.io.hugo

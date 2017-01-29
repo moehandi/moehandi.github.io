@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Moehandi&#39;s Github page</title>
+    <link>https://moehandi.github.io/post/index.xml</link>
+    <description>Recent content in Posts on Moehandi&#39;s Github page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Mon, 30 Jan 2017 01:38:33 +0700</lastBuildDate>
+    <atom:link href="https://moehandi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Trying hugo</title>
+      <link>https://moehandi.github.io/post/trying-hugo/</link>
+      <pubDate>Mon, 30 Jan 2017 01:38:33 +0700</pubDate>
+      
+      <guid>https://moehandi.github.io/post/trying-hugo/</guid>
+      <description>&lt;p&gt;Hugo is really fast  to build static site. Now I am trying to build my static site on github page with Hugo.
+This is my first content on github page also first content post with hugo.
+you can try it and visit  &lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
